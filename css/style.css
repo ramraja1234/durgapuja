@@ -1237,7 +1237,7 @@ ul, ol {
 	left: 0;
 	top: 2px;
 	font-size: 18px;
-	color: #242deb;
+	color: #ff0000;
 }
 .contact-form label {
 	font-size: 18px;
@@ -1266,4 +1266,5 @@ ul, ol {
 	font-size: 12px;
 	letter-spacing: 2px;
 	border: 1px solid #000000;
+	background-color: #ff0000;
 }
