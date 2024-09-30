@@ -914,6 +914,7 @@ ul, ol {
 	margin-bottom: 19px;
 	position: relative;
 }
+
 .blog-item .blog-text {
 	position: absolute;
 	left: 0;
@@ -1268,3 +1269,18 @@ ul, ol {
 	border: 1px solid #000000;
 	background-color: #ff0000;
 }
+
+
+/* sponsors */
+.sponsor-grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+	gap: 4rem;
+	margin: 0 auto;
+	max-width: 800px;
+  }
+  .sponsor img {
+	aspect-ratio: 1 / 1;
+	width: 100%;
+	object-fit: contain;
+  }
