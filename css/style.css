@@ -850,6 +850,10 @@ ul, ol {
 		padding: 0 20px;
 	}
 }
+.blog-section .site-btn{
+	background-color: #ff0000;
+	color: white;
+}
 .feature-blog {
 	height: 800px;
 	display: flex;
